@@ -1,0 +1,1 @@
+{"name":"Local: postfixevaluation","url":"c:\\Users\\biswa\\OneDrive\\Documents\\DSA SUMMER BREAK\\stack\\postfixevaluation.cpp","tests":[{"id":1652418661063,"input":"231*+9-","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\biswa\\OneDrive\\Documents\\DSA SUMMER BREAK\\stack\\postfixevaluation.cpp","group":"local","local":true}
